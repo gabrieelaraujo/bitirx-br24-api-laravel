@@ -15,3 +15,7 @@ Coloque o controller na pasta de Controllers e faça suas adaptações de acordo
 Não esqueça de alterar os endpoints, exemplo: "https://site.bitrix24.com.br/rest/1/TOKEN/crm.deal.update";
 
 Obs: A API está incluindo diversos campos personalizados pela empresa para qual a api  foi desenvolvida, basta fazer uma adaptação que irá funcionar legal.
+
+
+### Refatoração do código
+O código está sendo refatorado para uma melhoria de desempenho, já que chegou na finalização da sua progrmação sem ter solicitações de alterações, seja de inclusão ou exclusão de campos. 
